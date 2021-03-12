@@ -1,2 +1,2 @@
-Hammerspoon common configuration.
-copy & custom configuration
+- Hammerspoon common configuration.
+- copy & custom configuration
